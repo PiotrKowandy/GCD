@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libGCD_lib.a CMakeFiles/GCD_lib.dir/GCD.cpp.o CMakeFiles/GCD_lib.dir/main.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libGCD_lib.a
