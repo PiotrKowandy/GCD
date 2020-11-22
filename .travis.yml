@@ -6,6 +6,7 @@ addons:
     packages:
       - cmake
       - g++-7
+      - valgrind
     sources:
       - ubuntu-toolchain-r-test
 
