@@ -19,6 +19,7 @@ script:
   - CXX=/usr/bin/g++-7 C=/usr/bin/gcc-7 cmake ..
   - make all
   - ./test/GCD_test
+  - valgrind ./src/GCD_run
 
 after_success:
         - echo "success"
