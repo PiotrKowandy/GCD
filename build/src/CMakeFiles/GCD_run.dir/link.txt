@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/GCD_run.dir/GCD.cpp.o CMakeFiles/GCD_run.dir/main.cpp.o -o GCD_run 
